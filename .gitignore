@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/GuessingGame_Jones
+/GuessingGame_Jones/bin/Debug
+/GuessingGame_Jones/obj/Debug
